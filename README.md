@@ -4,10 +4,10 @@ This project explores Walmart sales performance using Power BI. The dashboard pr
 
 ## 🖼️ Dashboard Preview
 
-### Page 1 – ["Sales Overview"]
+### Page 1 – [Sales Overview]
 ![Dashboard Page 1](dashboard-page1.png)
 
-### Page 2 – ["Store Performance"]
+### Page 2 – [Store Performance]
 ![Dashboard Page 2](dashboard-page2.png)
 
 ### Page 3 – ["External Factors Impact"]
