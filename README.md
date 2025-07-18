@@ -41,13 +41,7 @@ This project explores Walmart sales performance using Power BI. The dashboard pr
 - 🔹 Correlation between:
   - Temperature and sales
   - Fuel price and sales
-  - CPI (Consumer Price Index) and sales
-  - Unemployment rate and sales
-
-### 6. Key Insights & Recommendations
-- 🔹 Best times for Walmart to run promotions
-- 🔹 Stores needing performance improvement
-- 🔹 External factors that most impact sales trends
+  
 
 ## 🛠 Tools Used
 - Microsoft Power BI
