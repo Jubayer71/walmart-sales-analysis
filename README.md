@@ -41,6 +41,7 @@ This project explores Walmart sales performance using Power BI. The dashboard pr
 ## 🛠 Tools Used
 - Microsoft Power BI
 - Microsoft Excel
+- MySql Workbench
 
 ## 📌 Notes
 SQL analysis was initially used to extract insights but the queries were lost. All key findings are now presented through the Power BI visuals.
