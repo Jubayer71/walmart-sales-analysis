@@ -2,6 +2,17 @@
 
 This project explores Walmart sales performance using Power BI. The dashboard provides deep insights into store-level sales trends, external influences, and performance comparisons.
 
+## 🖼️ Dashboard Preview
+
+### Page 1 – [Give a short title, e.g. "Sales Overview"]
+![Dashboard Page 1](dashboard-page1.png)
+
+### Page 2 – [Give a short title, e.g. "Store Performance"]
+![Dashboard Page 2](dashboard-page2.png)
+
+### Page 3 – [Give a short title, e.g. "External Factors Impact"]
+![Dashboard Page 3](dashboard-page3.png)
+
 ## 📁 Project Files
 - **Walmart Sales Data.xlsx** – Raw dataset
 - **Walmart Dashboard.pbix** – Interactive Power BI dashboard
